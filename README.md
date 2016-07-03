@@ -14,7 +14,7 @@ What you need to run this app:
 
 ### Setup
 
-* Clone this repo: git clone XXXXXX
+* Clone this repo: git clone https://github.com/kevinchisholm/getting-started-with-the-filepath-nodejs-module
 
 ### Running the examples
 
